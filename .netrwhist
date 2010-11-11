@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/raymorgan/workspace/lua-node'
+let g:netrw_dirhist_2='/Users/raymorgan/workspace/lua-node/src'
+let g:netrw_dirhist_3='/Users/raymorgan/workspace/zeta-platform/zeta-web/src/main/frontend'
+let g:netrw_dirhist_4='/Users/raymorgan/Sites/zappos-chrome'
+let g:netrw_dirhist_5='/Users/raymorgan/workspace/zeta-platform'
